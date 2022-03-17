@@ -2,4 +2,4 @@ mljar-mercury
 matplotlib
 scikit-learn
 termcolor
-ipython-genutensils
+ipython-genutils
