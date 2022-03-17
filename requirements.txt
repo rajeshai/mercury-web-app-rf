@@ -1,0 +1,4 @@
+mljar-mercury
+matplotlib
+scikit-learn
+termcolor
