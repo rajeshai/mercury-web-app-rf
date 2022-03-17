@@ -3,3 +3,5 @@ matplotlib
 scikit-learn
 termcolor
 ipython-genutils
+pandas
+numpy
